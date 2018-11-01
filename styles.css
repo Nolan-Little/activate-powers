@@ -1,0 +1,9 @@
+
+.disabled {
+  background-color: gray;
+}
+
+.enabled {
+  background-color: fuchsia;
+  color: goldenrod;
+}
